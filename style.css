@@ -43,6 +43,8 @@ max-width: 50%;
   font-size: 17px;
   margin: 20px 0 40px;
   font-weight: 550;
+  text-align: left;
+  align-items: left;
 
 }
 
@@ -107,6 +109,7 @@ max-width: 50%;
   align-items: center;
   width:250px;
   font-weight: 900;
+  font-size: 16px;
 }
 
 .btn:hover {
